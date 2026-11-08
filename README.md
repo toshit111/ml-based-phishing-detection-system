@@ -2,8 +2,8 @@
 
 Classifying web pages as phishing or legitimate with five ML models and a Streamlit app.
 
-- GitHub repository: `<PASTE YOUR GITHUB REPO LINK HERE>`
-- Live app: `<PASTE YOUR STREAMLIT APP LINK HERE>`
+- GitHub repository: `https://github.com/toshit111/ml-based-phishing-detection-system`
+- Live app: `https://ml-based-phishing-detection-system-uoz8cnf5uyk3r7n9tp8nmf.streamlit.app/`
 
 ## a. Problem statement
 
